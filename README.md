@@ -10,7 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Ben 1. sınıf Yazılım Mühendisliği öğrencisiyim. Lise yıllarımdan beri yazılım geliştirmeye ilgi duyuyorum.
+### I am a 1st year Software Engineering student. I have been interested in software development since high school.
+
 
 In summer 2023 I learned **ASP.NET, MVC** (Model-View-Controller) in a software company where I did an internship. And I made a small <a href="https://github.com/MehmetUygun0/Dog-Rental-Website">project</a> in my repository. 
 I want to remember ASP.NET, MVC again, I forgot about it because I didn't deal with it again.
